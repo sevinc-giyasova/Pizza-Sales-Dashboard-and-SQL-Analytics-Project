@@ -98,5 +98,7 @@ It showcases how analytical and visual layers work together to support **data-dr
 
 ---
 
-*Prepared by:* **Sevinc Qiyasova**  
-*Year:* 2025
+## Author  
+
+**Sevinc Qiyasova**  
+[My GitHub Profile](https://github.com/sevinc-giyasova)
