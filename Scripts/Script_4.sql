@@ -7,3 +7,5 @@ GROUP BY pizza_category)
 SELECT *, 
     round (sum_price * 100 / sum(sum_price) OVER (),2) AS sales_share
 FROM cte
+ORDER BY sales_share DESC
+LIMIT 3
